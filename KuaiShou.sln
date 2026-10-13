@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuaiShouApiTest", "KuaiShouApiTest\KuaiShouApiTest.csproj", "{B2830971-0AF9-4447-B686-3ED79265BD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDX.KuaiShouOpen", "DDX.KuaiShouOpen\DDX.KuaiShouOpen.csproj", "{3EB94B53-FFF0-4C9A-A818-D4D4FEC708A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2830971-0AF9-4447-B686-3ED79265BD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2830971-0AF9-4447-B686-3ED79265BD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2830971-0AF9-4447-B686-3ED79265BD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2830971-0AF9-4447-B686-3ED79265BD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB94B53-FFF0-4C9A-A818-D4D4FEC708A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB94B53-FFF0-4C9A-A818-D4D4FEC708A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB94B53-FFF0-4C9A-A818-D4D4FEC708A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB94B53-FFF0-4C9A-A818-D4D4FEC708A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA45505-D7F8-4FC9-AC0F-04E01A8E2228}
+	EndGlobalSection
+EndGlobal
